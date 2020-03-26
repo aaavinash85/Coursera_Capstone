@@ -2426,25 +2426,3 @@ ________
 </table>
 </div>
 
-<img src = "https://raw.githubusercontent.com/crismag/Coursera_Capstone/master/saved_data/clustered_vicimap.png" width = 800, align = "center">
-<a href="https://raw.githubusercontent.com/crismag/Coursera_Capstone/master/saved_data/singapore_food_venues.600Scores.Category.csv" target="_blank">Download Github:singapore_food_venues</a>
-<a href="https://raw.githubusercontent.com/crismag/Coursera_Capstone/master/saved_data/singapore_outdoorAndRecration.Category.noscore.csv" target="_blank">Download Github:singapore_outdoorAndRecreation</a>
-<a href="https://raw.githubusercontent.com/crismag/Coursera_Capstone/master/saved_data/singapore_Nightlife_by_town.Category.csv" target="_blank">Download Github:singapore_Nightlife</a>
-
-________
-
-## Discussion and Conclusion
-
-On this notebook, Analysis of best town venue recommendations based on Food venue category has been presented. Recommendations based on other user searches like available outdoor and recreation areas are also available. As singapore is a small country with a whole host of interesting venues scattered around the town, the information extracted in this notebook present on the town areas, will be a good supplement to web based recommendations for visitors to find out nearby venues of interest and be a useful aid in deciding a place to stay or where to go during their visits.
-
-Using Foursquare API, we have collected a good amount of venue recommnedations in Singapore Towns. Sourcing from the venue recommendations from FourSquare has its limitation, The list of venues is not exhaustive list of all the available venues is the area. Furthermore, not all the venues found in the the area has a stored ratings. For this reason, the number of analyzed venues are only about 50% of all the available venues initially collected. The results therefore may significantly change, when more information are collected on those with missing data. 
-
-The generated clusters from our results shows that there are very good and interesting places located in areas where the median rents are cheaper. This kind of results may be very interesting for travelers who are also on budget constraints. Our results also yielded some interesting findings. For instance, The initial assumption among websites providing recommendations is that the Central Area that have the highest median rent also have better food venues. The results however shows that while Marine Parade, a cheaper location has better rated food courts. Result shows that most popular food venue among Singaporeans, residents and visitors are **Food Courts, Coffee Shops and Fast Food Restaurants**. The highest rated Food Courts are located in __Marine Parade__, and in __Central Area__.
-
-I will be providing a other supplementary Inferential Statics in the future about on these data collected and also update in a new notebook using other categories. For now, this completes the requirements for this task.
-
-Thank you.
-Avinash Koshal
-
-
-Created For: COURSERA __**IBM Applied Data Science Capstone** Project__
